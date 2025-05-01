@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Homework\\Past Semseters\\Spring 2024\\IT 102\\Assignments\\Assignment9_NC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC10A1-123A-4135-812E-27272975367E}|Assignment8_NC\\Assignment8_NC.vbproj|e:\\homework\\past semseters\\spring 2024\\it 102\\assignments\\assignment9_nc\\assignment8_nc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B6EC10A1-123A-4135-812E-27272975367E}|Assignment8_NC\\Assignment8_NC.vbproj|solutionrelative:assignment8_nc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC10A1-123A-4135-812E-27272975367E}|Assignment8_NC\\Assignment8_NC.vbproj|e:\\homework\\past semseters\\spring 2024\\it 102\\assignments\\assignment9_nc\\assignment8_nc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B6EC10A1-123A-4135-812E-27272975367E}|Assignment8_NC\\Assignment8_NC.vbproj|solutionrelative:assignment8_nc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Homework\\Past Semseters\\Spring 2024\\IT 102\\Assignments\\Assignment9_NC\\Assignment8_NC\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment8_NC\\Form1.vb",
+              "ToolTip": "E:\\Homework\\Past Semseters\\Spring 2024\\IT 102\\Assignments\\Assignment9_NC\\Assignment8_NC\\Form1.vb",
+              "RelativeToolTip": "Assignment8_NC\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-30T18:50:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\Homework\\Past Semseters\\Spring 2024\\IT 102\\Assignments\\Assignment9_NC\\Assignment8_NC\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment8_NC\\Form1.vb",
+              "ToolTip": "E:\\Homework\\Past Semseters\\Spring 2024\\IT 102\\Assignments\\Assignment9_NC\\Assignment8_NC\\Form1.vb [Design]",
+              "RelativeToolTip": "Assignment8_NC\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-30T18:50:31.669Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

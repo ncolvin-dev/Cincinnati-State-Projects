@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nc\\Desktop\\Homework10_NC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\Homework10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\Homework10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC7A4043-796F-47C2-9BB6-CD3F7D6AC1BE}|Homework10_NC\\Homework10_NC.vcxproj|solutionrelative:Homework10_NC\\CNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.cpp",
+              "RelativeDocumentMoniker": "Homework10_NC\\CQueue.cpp",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.cpp",
+              "RelativeToolTip": "Homework10_NC\\CQueue.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAhwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T01:58:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CQueue.h",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.h",
+              "RelativeDocumentMoniker": "Homework10_NC\\CQueue.h",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CQueue.h",
+              "RelativeToolTip": "Homework10_NC\\CQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T01:49:14.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework10.cpp",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\Homework10.cpp",
+              "RelativeDocumentMoniker": "Homework10_NC\\Homework10.cpp",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\Homework10.cpp",
+              "RelativeToolTip": "Homework10_NC\\Homework10.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:56:35.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CStack.cpp",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.cpp",
+              "RelativeDocumentMoniker": "Homework10_NC\\CStack.cpp",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.cpp",
+              "RelativeToolTip": "Homework10_NC\\CStack.cpp",
+              "ViewState": "AgIAANgAAAAAAAAAAAAhwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T20:01:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CStack.h",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.h",
+              "RelativeDocumentMoniker": "Homework10_NC\\CStack.h",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CStack.h",
+              "RelativeToolTip": "Homework10_NC\\CStack.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T19:51:16.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CNode.cpp",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.cpp",
+              "RelativeDocumentMoniker": "Homework10_NC\\CNode.cpp",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.cpp",
+              "RelativeToolTip": "Homework10_NC\\CNode.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAhwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:58:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CNode.h",
+              "DocumentMoniker": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.h",
+              "RelativeDocumentMoniker": "Homework10_NC\\CNode.h",
+              "ToolTip": "C:\\Users\\nc\\Desktop\\Homework10_NC\\Homework10_NC\\CNode.h",
+              "RelativeToolTip": "Homework10_NC\\CNode.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:58:01.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

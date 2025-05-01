@@ -1,0 +1,53 @@
+intFactorial = intNumber;
+for( intIndex = intNumber; intIndex > 1; intIndex -= 1 )
+{
+	intFactorial = intFactorial * ( intIndex – 1 );
+}
+// --------------------------------------------------------------------------------
+// Name:  AddNumbers1To100Recusively
+// Abstract: Adds Numbers 1 to 100 using recursion
+// --------------------------------------------------------------------------------
+int AddNumbers1To100Recusively(int intIndex)
+{
+	int intTotal = 0;
+
+	intIndex += 1;
+
+	intTotal += intIndex;
+
+	// Problem #2 - Maximum number of times my PC can handle recursion is = 3577
+	// The RAM installed on my system is 32GB
+
+	// Recurse? 
+	if (intIndex < 100)
+	{
+		// Yes, we are below the limit
+		intTotal += AddNumbers1To100Recusively(intIndex);
+	}
+
+	return intTotal;
+}
+
+
+
+// --------------------------------------------------------------------------------
+// Name:  FindFactoral
+// Abstract: Finds the factoral of a given number
+// --------------------------------------------------------------------------------
+int FindFactoral(int intIndex)
+{
+	int intFactoral = 0;
+	int intRecursiveResult = 0;
+	if(intIndex <= 1)
+	{
+		intFactoral = 1;
+	}
+	else
+	{
+		intRecursiveResult = FindFactoral(intIndex - 1);
+		intFactoral = intRecursiveResult * intIndex;
+	}
+	
+	return intFactoral;
+}
+
